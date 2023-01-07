@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class _08OperadoresUnitario {
     public static void main(String arg[]) {
         var c = true;
