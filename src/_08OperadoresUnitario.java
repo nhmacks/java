@@ -17,5 +17,10 @@ public class _08OperadoresUnitario {
         var h = g++;
         System.out.println("g= " +g);
         System.out.println("h=" + h);
+
+        var i = 2;
+        var j = --i;
+        System.out.println("i =" + i);
+        System.out.println("j =" + j);
     }
 }
